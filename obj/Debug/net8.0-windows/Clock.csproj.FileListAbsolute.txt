@@ -1,0 +1,16 @@
+C:\Users\Jesse\source\repos\Clock\bin\Debug\net8.0-windows\Clock.exe
+C:\Users\Jesse\source\repos\Clock\bin\Debug\net8.0-windows\Clock.deps.json
+C:\Users\Jesse\source\repos\Clock\bin\Debug\net8.0-windows\Clock.runtimeconfig.json
+C:\Users\Jesse\source\repos\Clock\bin\Debug\net8.0-windows\Clock.dll
+C:\Users\Jesse\source\repos\Clock\bin\Debug\net8.0-windows\Clock.pdb
+C:\Users\Jesse\source\repos\Clock\obj\Debug\net8.0-windows\Clock.Form1.resources
+C:\Users\Jesse\source\repos\Clock\obj\Debug\net8.0-windows\Clock.csproj.GenerateResource.cache
+C:\Users\Jesse\source\repos\Clock\obj\Debug\net8.0-windows\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesse\source\repos\Clock\obj\Debug\net8.0-windows\Clock.AssemblyInfoInputs.cache
+C:\Users\Jesse\source\repos\Clock\obj\Debug\net8.0-windows\Clock.AssemblyInfo.cs
+C:\Users\Jesse\source\repos\Clock\obj\Debug\net8.0-windows\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\source\repos\Clock\obj\Debug\net8.0-windows\Clock.dll
+C:\Users\Jesse\source\repos\Clock\obj\Debug\net8.0-windows\refint\Clock.dll
+C:\Users\Jesse\source\repos\Clock\obj\Debug\net8.0-windows\Clock.pdb
+C:\Users\Jesse\source\repos\Clock\obj\Debug\net8.0-windows\Clock.genruntimeconfig.cache
+C:\Users\Jesse\source\repos\Clock\obj\Debug\net8.0-windows\ref\Clock.dll
